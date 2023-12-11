@@ -1,9 +1,9 @@
 # CIS-1501-Project
 # Video Demonstration of Twisted Wordle:
-#add the link here
+##add the link here
 
 
-## Some of The Difficulties We Faced, The Things We Learned, and The Things We Enjoyed.
+# Some of The Difficulties We Faced, The Things We Learned, and The Things We Enjoyed.
 # Difficulties we faced:
 
 ## Problem 1
