@@ -2,6 +2,7 @@
 # Video Demonstration of Twisted Wordle:
 ##add the link here
 
+# Twisted Wordle.py is the final product for this project
 
 # Some of The Difficulties We Faced, The Things We Learned, and The Things We Enjoyed.
 # Difficulties we faced:
