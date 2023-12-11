@@ -8,7 +8,7 @@
 
 ## Problem 1
 We faced a couple of difficulties while making this code. The first was finding an inclusive word bank (this is a lot harder than you might think). Thankfully, we managed to not only figure out that Wordle uses 
-2 word banks, one for all valid guessable words and one for words that can be the answer, and were able to find those word banks online. 
+2 word banks, one for all valid guessable words and one for words that can be the answer, but we were also able to find those word banks online. 
 
 ## Problem 2
 The second difficulty we faced was how to turn our base Wordle code into a cheating Wordle code. We were very confused about how to implement the word families that Absurdle uses. Through some research and insight, we 
